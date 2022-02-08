@@ -99,3 +99,4 @@ for i in range(0,6,1):
     amazon_scrape(doc_loc[i], sheet_name[i])
     csv_to_mysql(doc_loc[i], sheet_name[i])
 
+testestest
